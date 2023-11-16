@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Typicalsleepingboy</h1>
 <h3 align="center">A passionate student from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logicalxrabbits" alt="logicalxrabbits" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://twitter.com/typicalsleeping" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/typicalsleeping?logo=twitter&style=for-the-badge" alt="https://twitter.com/typicalsleeping" /></a> </p>
-
 - 🔭 I’m currently working on [Evorative community](evorative.com)
 
 - 🌱 I’m currently learning **Lua language, Qbxcore Framework**
