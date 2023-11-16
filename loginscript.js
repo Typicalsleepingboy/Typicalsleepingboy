@@ -73,3 +73,6 @@ function closeWelcomeNotification() {
   document.querySelector(".welcome-notification-container").style.display =
     "none";
 }
+
+// Setelah login berhasil
+window.location.href = 'https://LogicalXRabbits/Typicalsleepingboy.github.io/indexweb.html';
