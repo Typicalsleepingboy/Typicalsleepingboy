@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Simulasi pengecekan username dan password
     if (username === "1101213056" && password === "1101213056") {
       // Login berhasil, redirect ke halaman utama
-      window.location.href = "../web/index.html";
+      window.location.href = "../indexweb.html";
     } else {
       // Tampilkan notifikasi jika belum pernah ditampilkan
       if (!notificationShown) {
@@ -54,7 +54,7 @@ function closeNotification() {
 
 function playNotificationSound() {
   // Ganti 'your-audio-file.mp3' dengan nama file audio Anda
-  const audio = new Audio("/audio/announcement.mp3");
+  const audio = new Audio("../announcement.mp3");
   audio.play();
 }
 
