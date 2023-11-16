@@ -4,8 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const togglePasswordBtn = document.getElementById("togglePasswordVisibility");
 
   // Mengecek apakah notifikasi sudah ditampilkan sebelumnya
-  const notificationShown =
-    sessionStorage.getItem("notificationShown") === "true";
+  const notificationShown = sessionStorage.getItem("notificationShown") === "true";
 
   // Mengecek status login
   const isLoggedIn = localStorage.getItem("isLoggedIn") === "true";
@@ -46,9 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 function showNotification() {
-  const notificationContainer = document.querySelector(
-    ".notification-container"
-  );
+  const notificationContainer = document.querySelector(".notification-container");
   notificationContainer.style.display = "block";
 }
 
@@ -63,9 +60,7 @@ function playNotificationSound() {
 }
 
 function showWelcomeNotification() {
-  const welcomeNotificationContainer = document.querySelector(
-    ".welcome-notification-container"
-  );
+  const welcomeNotificationContainer = document.querySelector(".welcome-notification-container");
   welcomeNotificationContainer.style.display = "block";
 
   // Atur agar notifikasi dapat ditutup setelah beberapa detik
@@ -73,7 +68,7 @@ function showWelcomeNotification() {
     welcomeNotificationContainer.style.display = "none";
   }, 5000); // Ganti angka 5000 dengan interval yang diinginkan (dalam milidetik)
 }
+
 function closeWelcomeNotification() {
-  document.querySelector(".welcome-notification-container").style.display =
-    "none";
+  document.querySelector(".welcome-notification-container").style.display = "none";
 }
