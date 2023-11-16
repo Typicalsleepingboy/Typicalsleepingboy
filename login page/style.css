@@ -1,0 +1,143 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.login-container {
+  width: 90%;
+  max-width: 350px;
+}
+
+.login-card {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  text-align: center;
+}
+
+h2 {
+  color: #333;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin: 10px 0 5px;
+  color: #666;
+}
+
+input {
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+button {
+  background-color: #9476be;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #525252;
+}
+
+.password-container {
+  position: relative;
+}
+
+.toggle-password {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  cursor: pointer;
+  color: #666;
+}
+
+.social-icons {
+  margin-top: 20px;
+}
+
+.social-icons a {
+  display: inline-block;
+  margin-right: 10px;
+  font-size: 20px;
+  color: #9476be;
+  transition: color 0.3s ease-in-out;
+}
+
+.social-icons a:hover {
+  color: #252525;
+}
+
+.footer {
+  margin-top: 2px;
+  padding-top: 5px;
+}
+
+.notification-container,
+.welcome-notification-container {
+  position: fixed;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  max-width: 300px;
+  width: 100%;
+  z-index: 1000;
+  display: none;
+  border-radius: 8px;
+  background-color: #9476be;
+}
+
+.notification,
+.welcome-notification {
+  position: relative;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  animation: fadeInOut 4s ease-in-out;
+}
+
+.notification h3,
+.welcome-notification h3 {
+  margin: 0 0 10px;
+  font-size: 18px;
+  color: #fff;
+}
+
+.notification p,
+.welcome-notification p {
+  margin: 0 0 10px;
+  font-size: 18px;
+  color: #fff;
+}
+
+@media only screen and (max-width: 600px) {
+  .login-container {
+    width: 100%;
+    margin-top: 30%;
+  }
+
+  .login-card {
+    padding: 10px;
+  }
+
+  input {
+    margin-bottom: 10px;
+  }
+}

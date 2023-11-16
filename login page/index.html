@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Typicalsleepingboy</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    />
+  </head>
+
+  <body>
+    <div class="notification-container" id="notificationContainer">
+      <div class="notification" id="passwordNotification">
+        <h3>Login Notification 💜💜</h3>
+        <p>Username & Password is incorrect. Please try again.</p>
+      </div>
+    </div>
+    <div
+      class="welcome-notification-container"
+      id="welcomeNotificationContainer"
+    >
+      <div class="welcome-notification">
+        <h3>Welcome to Typicalsleepingboy Panel! 💜</h3>
+        <p>Please enter your username and password to proceed.</p>
+      </div>
+    </div>
+
+    <div class="login-container">
+      <div class="login-card">
+        <h2>Login Please</h2>
+        <p>Please Login in to your account.</p>
+        <form id="loginForm">
+          <label for="username">Username:</label>
+          <input type="text" id="username" name="username" required />
+
+          <label for="password">Password:</label>
+          <div class="password-container">
+            <input type="password" id="password" name="password" required />
+            <span
+              class="toggle-password"
+              id="togglePasswordVisibility"
+              onclick="togglePasswordVisibility()"
+              >Show</span
+            >
+          </div>
+          <button type="submit">Login</button>
+        </form>
+
+        <div class="social-icons">
+          <p>Lets Connect With Me</p>
+          <a
+            href="https://www.instagram.com/_naufaldzaky1/"
+            target="_blank"
+            rel="noopener noreferrer"
+            ><i class="fab fa-instagram"></i
+          ></a>
+          <a
+            href="https://github.com/LogicalXRabbits"
+            target="_blank"
+            rel="noopener noreferrer"
+            ><i class="fab fa-github"></i
+          ></a>
+        </div>
+        <div class="footer">
+          <p>Made by 💜 Typicalsleepingboy</p>
+        </div>
+      </div>
+    </div>
+    <script src="loginscript.js"></script>
+  </body>
+</html>
