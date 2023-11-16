@@ -7,8 +7,11 @@ document.addEventListener("DOMContentLoaded", function () {
   const notificationShown =
     sessionStorage.getItem("notificationShown") === "true";
 
+  // Mengecek status login
+  const isLoggedIn = localStorage.getItem("isLoggedIn") === "true";
+
   // Tampilkan notifikasi untuk mengisi username dan password saat pengguna memasuki web
-  if (!notificationShown) {
+  if (!notificationShown && !isLoggedIn) {
     showWelcomeNotification();
   }
 
@@ -28,8 +31,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Simulasi pengecekan username dan password
     if (username === "1101213056" && password === "1101213056") {
-      // Login berhasil, redirect ke halaman utama
-      window.location.href = "../indexweb.html";
+      // Login berhasil, set status login dan redirect ke halaman utama
+      localStorage.setItem("isLoggedIn", "true");
+      window.location.href = "../indexweb.html"; // Ganti dengan URL halaman yang diinginkan
     } else {
       // Tampilkan notifikasi jika belum pernah ditampilkan
       if (!notificationShown) {
@@ -73,6 +77,3 @@ function closeWelcomeNotification() {
   document.querySelector(".welcome-notification-container").style.display =
     "none";
 }
-
-// Setelah login berhasil
-window.location.href = 'https://LogicalXRabbits/Typicalsleepingboy.github.io/indexweb.html';
