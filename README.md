@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Typicalsleepingboy</h1>
 <h3 align="center">A passionate student from Indonesia</h3>
 
-- 🔭 I’m currently working on [Evorative community](evorative.com)
+- 🔭 I’m currently working on [Traives community]
 
-- 🌱 I’m currently learning **Lua language, Qbxcore Framework**
+- 🌱 I’m currently learning **Lua language, Qbxcore Framework, Reactjs, js, node js**
 
 - 💬 Ask me about **Perkenalkan saya Typicalsleepingboy atau orang-orang biasa panggil dengan nama naufal, saya adalah pelajar semester 5 di Universitas Telkom University, hobi saya adalah motoran, ngedit, fotografi, dan bikin web iseng2**
 
