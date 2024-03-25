@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Lua language, Qbxcore Framework, Reactjs, js, node js**
 
-- 💬 Ask me about **Perkenalkan saya Typicalsleepingboy atau orang-orang biasa panggil dengan nama naufal, saya adalah pelajar semester 5 di Universitas Telkom University, hobi saya adalah motoran, ngedit, fotografi, dan bikin web iseng2**
+- 💬 Ask me about **Perkenalkan saya Typicalsleepingboy atau orang-orang biasa panggil dengan nama naufal, saya adalah pelajar semester 6 di Universitas Telkom University, hobi saya adalah motoran, ngedit, fotografi, dan bikin web iseng2**
 
 - 📫 How to reach me **mpluto772@gmail.com**
 
