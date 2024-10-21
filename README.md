@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Traives community]
 
-- 🌱 I’m currently learning **Lua language, Qbxcore Framework, Reactjs, js, node js**
+- 🌱 I’m currently learning **Lua language, Qbxcore Framework, Reactjs, js, node js, MongoDb**
 
-- 💬 Ask me about **Perkenalkan saya Typicalsleepingboy atau orang-orang biasa panggil dengan nama naufal, saya adalah pelajar semester 6 di Universitas Telkom University, hobi saya adalah motoran, ngedit, fotografi, dan bikin web iseng2**
+- 💬 Ask me about **Perkenalkan saya Typicalsleepingboy atau orang-orang biasa panggil dengan nama naufal, saya adalah pelajar semester 7 di Universitas Telkom University, hobi saya adalah motoran, ngedit, fotografi, dan bikin web iseng2**
 
-- 📫 How to reach me **mpluto772@gmail.com**
+- 📫 How to reach me **typicalsleepingboyxx@gmail.com**
 
 - ⚡ Fun fact **Learn to be alone**
 
