@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Perkenalkan saya Typicalsleepingboy atau orang-orang biasa panggil dengan nama naufal, saya adalah pelajar semester 7 di Universitas Telkom University, hobi saya adalah motoran, ngedit, fotografi, dan bikin web iseng2**
 
-- 📫 How to reach me **typicalsleepingboyxx@gmail.com**
+- 📫 How to reach me **typicalsleepingboyxxx@gmail.com**
 
 - ⚡ Fun fact **Learn to be alone**
 
