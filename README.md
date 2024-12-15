@@ -1,4 +1,4 @@
-# Hi there! I'm Naufal 👋 aka Typicalsleepingboy
+# Hi there! I'm Naufal 👋 (Typicalsleepingboy)
 
 ## 👾 Tech Wizard 🚀
 
