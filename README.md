@@ -30,7 +30,7 @@ A passionate 7th-semester student at Telkom University, driven by technology and
 - 🏍️ Motorcycling
 - 📸 Editing
 - 🎭 Photography
-- 💃 JKT48 Dance Studio Enthusiast
+- 💃 JKT48 Enthusiast
 
 ## 🤝 Connect With Me
 
