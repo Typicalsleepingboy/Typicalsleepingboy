@@ -1,40 +1,35 @@
-<h1 align="center">Hi 👋, I'm Typicalsleepingboy</h1>
-<h3 align="center">Seorang yang gila dengan dunia ini</h3>
+# Hi there! I'm Naufal 👋
 
-- 🌱 I’m currently learning  
-  ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)  
-  ![Qbxcore](https://img.shields.io/badge/Qbxcore-Framework-lightgrey?style=for-the-badge)  
-  ![ReactJS](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+## 🧑‍💻 About Me
 
-- 💬 Ask me about  
-  **Perkenalkan saya Typicalsleepingboy atau orang-orang biasa panggil dengan nama Naufal. Saya adalah pelajar semester 7 di Telkom University. Hobi saya meliputi motoran, ngedit, fotografi, dan bikin web iseng-iseng.**
+I'm a passionate 7th-semester student at Telkom University, driven by technology and creativity. My world revolves around coding, motorcycles, editing, and photography.
 
-- 📫 How to reach me  
-  **typicalsleepingboyxxx@gmail.com**
+### 🛠 Tech Stack
 
-- ⚡ Fun fact  
-  **Learn to be alone**
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Qbxcore](https://img.shields.io/badge/Qbxcore-Framework-lightgrey?style=for-the-badge)
+![ReactJS](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+## 🌟 Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/typicalsleeping" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_naufaldzaky1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+- [**48Intens Community Website**](https://48intens.com/)
+- [**Jekate48 Website**](https://jekate48.site/)
+- [**Ella Fanpage Website**](https://ellafanpage.vercel.app)
 
----
+## 💬 Philosophy
 
-<h3 align="left">My Projects:</h3>
-<ul>
-  <li><a href="https://48intens.com/" target="_blank">48Intens Community Website</a></li>
-  <li><a href="https://jekate48.site/" target="_blank">Jekate48 Website</a></li>
-  <li><a href="https://ellafanpage.vercel.app" target="_blank">Ella fanpage website</a></li>
-</ul>
+> "Learn to be alone" - My personal mantra of self-growth and independence
+
+## 🤝 Connect With Me
+
+[![Twitter](https://img.shields.io/badge/-@typicalsleeping-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/typicalsleeping)
+[![Instagram](https://img.shields.io/badge/-@_naufaldzaky1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_naufaldzaky1)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:typicalsleepingboyxxx@gmail.com)
+
+## 🤖 Discord Bot Services
+
+Looking for a custom Discord bot? Check out my store:
+[![Discord](https://img.shields.io/badge/-Discord%20Store-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KbjC6zw5jg)
