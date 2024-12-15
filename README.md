@@ -1,10 +1,10 @@
-# Hi there! I'm Naufal 👋 (Typicalsleepingboy)
+# Hi there! I'm Naufal 👋 aka Typicalsleepingboy
 
-## 🧑‍💻 About Me
+## 👾 Tech Wizard 🚀
 
-I'm a passionate 7th-semester student at Telkom University, driven by technology and creativity. My world revolves around coding, motorcycles, editing, and photography. A true JKT48 dance studio enthusiast who finds inspiration in the vibrant world of performance arts.
+🌱 Lua | 🏗 Qbxcore | ⚛️ ReactJS | 💻 JavaScript | 🟢 Node.js | 🍃 MongoDB | 🌈 Tailwind CSS | 🐧 Ubuntu
 
-### 🛠 Tech Stack
+### 🛠 Detailed Tech Stack
 
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Qbxcore](https://img.shields.io/badge/Qbxcore-Framework-lightgrey?style=for-the-badge)
@@ -12,6 +12,8 @@ I'm a passionate 7th-semester student at Telkom University, driven by technology
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 🌟 Projects
 
@@ -19,11 +21,16 @@ I'm a passionate 7th-semester student at Telkom University, driven by technology
 - [**Jekate48 Website**](https://jekate48.site/)
 - [**Ella Fanpage Website**](https://ellafanpage.vercel.app)
 
-## 💬 Passion
+## 💬 About Me
 
 > "Learn to be alone" - My personal mantra of self-growth and independence
 
-A passionate follower of the JKT48 dance studio, finding creativity and inspiration in the world of performance and music.
+A passionate 7th-semester student at Telkom University, driven by technology and creativity. My world revolves around:
+- 💻 Coding
+- 🏍️ Motorcycling
+- 📸 Editing
+- 🎭 Photography
+- 💃 JKT48 Dance Studio Enthusiast
 
 ## 🤝 Connect With Me
 
@@ -35,3 +42,7 @@ A passionate follower of the JKT48 dance studio, finding creativity and inspirat
 
 Looking for a custom Discord bot? Check out my store:
 [![Discord](https://img.shields.io/badge/-Discord%20Store-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KbjC6zw5jg)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
