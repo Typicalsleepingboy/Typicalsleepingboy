@@ -1,8 +1,8 @@
-# Hi there! I'm Naufal 👋
+# Hi there! I'm Naufal 👋 aka Typicalsleepingboy
 
 ## 🧑‍💻 About Me
 
-I'm a passionate 7th-semester student at Telkom University, driven by technology and creativity. My world revolves around coding, motorcycles, editing, and photography.
+I'm a passionate 7th-semester student at Telkom University, driven by technology and creativity. My world revolves around coding, motorcycles, editing, and photography. A true JKT48 dance studio enthusiast who finds inspiration in the vibrant world of performance arts.
 
 ### 🛠 Tech Stack
 
@@ -19,9 +19,11 @@ I'm a passionate 7th-semester student at Telkom University, driven by technology
 - [**Jekate48 Website**](https://jekate48.site/)
 - [**Ella Fanpage Website**](https://ellafanpage.vercel.app)
 
-## 💬 Philosophy
+## 💬 Passion
 
 > "Learn to be alone" - My personal mantra of self-growth and independence
+
+A passionate follower of the JKT48 dance studio, finding creativity and inspiration in the world of performance and music.
 
 ## 🤝 Connect With Me
 
