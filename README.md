@@ -46,3 +46,4 @@ Looking for a custom Discord bot? Check out my store:
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=typicalsleepingboy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=typicalsleepingboy&layout=compact)
