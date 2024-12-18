@@ -55,9 +55,3 @@ Looking for a custom Discord bot? Check out my store:
 
 ## Top Repository
 
-<a href="https://github.com/Typicalsleepingboy/jekate48">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typicalsleepingboy&repo=jekate48" />
-</a>
-<a href="https://github.com/Typicalsleepingboy/gabriela">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typicalsleepingboy&repo=gabriela" />
-</a>
