@@ -6,6 +6,7 @@
 
 ### 🛠 Detailed Tech Stack
 
+![HTML](https://img.shields.io/badge/Html-%232C2D72.svg?style=for-the-badge&logo=Html&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Qbxcore](https://img.shields.io/badge/Qbxcore-Framework-lightgrey?style=for-the-badge)
 ![ReactJS](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
