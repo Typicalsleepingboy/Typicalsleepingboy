@@ -2,7 +2,7 @@
 
 ## 👾 Tech Wizard 🚀
 
-🌱 Lua | 🏗 Qbxcore | ⚛️ ReactJS | 💻 JavaScript | 🟢 Node.js | 🍃 MongoDB | 🌈 Tailwind CSS | 🐧 Ubuntu
+🌱 Lua | 🏗 Qbxcore | ⚛️ ReactJS | 💻 JavaScript | 🟢 Node.js | 🍃 MongoDB | 🌈 Tailwind CSS | 🐧 Ubuntu | 🚧 HTML
 
 ### 🛠 Detailed Tech Stack
 
