@@ -2,7 +2,7 @@
 
 
 <a href="https://jekate48.site/">
-  <img height=100 align="center" src="https://cdn.discordapp.com/attachments/1282388026391269497/1319250619734687805/ella.jpg?ex=67654762&is=6763f5e2&hm=32f9660c09e597c59247f29006c9da2f0bdb40b3974af786b3ccb1ef83ac51c0&" />
+  <img height=500 align="center" src="https://cdn.discordapp.com/attachments/1282388026391269497/1319250619734687805/ella.jpg?ex=67654762&is=6763f5e2&hm=32f9660c09e597c59247f29006c9da2f0bdb40b3974af786b3ccb1ef83ac51c0&" />
 </a>
 
 
