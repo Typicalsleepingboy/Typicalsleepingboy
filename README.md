@@ -35,11 +35,6 @@ A passionate 7th-semester student at Telkom University, driven by technology and
 - 🎭 Photography
 - 💃 JKT48 Enthusiast
 
-## 🤝 Connect With Me
-
-[![Twitter](https://img.shields.io/badge/-@typicalsleeping-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/typicalsleeping)
-[![Instagram](https://img.shields.io/badge/-@_naufaldzaky1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_naufaldzaky1)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:typicalsleepingboyxxx@gmail.com)
 
 ## 🤖 Discord Bot Services
 
