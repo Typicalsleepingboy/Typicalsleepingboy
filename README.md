@@ -8,7 +8,7 @@
 
 ### 🛠 Detailed Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ae,arduino,c,cpp,css,dart,bots,discordjs)](https://skillicons.dev)
 
 ## 🌟 Projects
 
