@@ -1,11 +1,6 @@
 # Hi there! I'm Naufal 👋 (Typicalsleepingboy)
 
 
-
-## 👾 Tech Wizard 🚀
-
-🌱 Lua | 🏗 Qbxcore | ⚛️ ReactJS | 💻 JavaScript | 🟢 Node.js | 🍃 MongoDB | 🌈 Tailwind CSS | 🐧 Ubuntu | 🚧 HTML
-
 ### 🛠 Detailed Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,c,cpp,css,dart,bots,discordjs,flutter,figma,firebase,flask,html,java,lua,mongodb,nextjs,nodejs,postman,react,ubuntu)](https://skillicons.dev)
