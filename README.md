@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="watermarked_img_17517062509035237172.png" alt="Typicalsleepingboy Pixel Art Banner" width="100%">
+</p>
+
 # Hi, I'm Naufal! 👋
 ### Full-time Remote Worker @ Salvatore Media Nusantara
 
