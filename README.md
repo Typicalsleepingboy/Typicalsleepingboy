@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="watermarked_img_17517062509035237172.png" alt="Typicalsleepingboy Pixel Art Banner" width="100%">
+  <img src="http://cdn.salvatorecommunity.com/storage/Gemini_Generated_Image_qnt22pqnt22pqnt2.png" alt="Typicalsleepingboy Pixel Art Banner" width="100%">
 </p>
 
 # Hi, I'm Naufal! 👋
