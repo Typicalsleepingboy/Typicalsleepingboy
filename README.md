@@ -1,8 +1,5 @@
-+-------------------------------------------------------------+
-| TASK                        | PROGRESS         | STATUS     |
-+-------------------------------------------------------------+
-| Bangun Pagi                 | [░░░░░░░░░░] 0%  | FAILED     |
-| Ngoding Sampe Subuh         | [██████████] 100%| RUNNING    |
-| Beli Kopi                   | [██████████] 100%| COMPLETED  |
-| Merapiin Docker Compose     | [████████░░] 80% | SEGFAULT   |
-+-------------------------------------------------------------+
+$ sudo service brain-cells restart
+[FAIL] Failed to start brain-cells.service: Unit brain-cells.service is masked.
+$ cat /proc/meminfo | grep Dreams
+DreamsTotal:       999999 kB
+DreamsFree:             0 kB
